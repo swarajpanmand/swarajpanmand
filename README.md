@@ -23,6 +23,6 @@
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://github.com/swarajpanmand/swarajpanmand/blob/main/linux.svg" alt="linux" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/swarajpanmand/swarajpanmand/main/282599.webp" alt="linux" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://github.com/swarajpanmand/swarajpanmand/blob/main/tailwind-svgrepo-com.svg" alt="linux" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://github.com/swarajpanmand/swarajpanmand/blob/main/pngwing.com.png" alt="linux" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
 </p>
