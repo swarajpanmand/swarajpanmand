@@ -17,9 +17,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://github.com/swarajpanmand/swarajpanmand/blob/main/linux.svg" alt="linux" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/swarajpanmand/swarajpanmand/main/282599.webp" alt="react" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://github.com/swarajpanmand/swarajpanmand/blob/main/tailwind-svgrepo-com.svg" alt="tailwind" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/swarajpanmand/swarajpanmand/blob/main/download.jpeg" alt="vite" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/swarajpanmand/swarajpanmand/main/282599.webp" alt="react" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://github.com/swarajpanmand/swarajpanmand/blob/main/tailwind-svgrepo-com.svg" alt="tailwind" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://github.com/swarajpanmand/swarajpanmand/blob/main/linux.svg" alt="linux" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://github.com/swarajpanmand/swarajpanmand/blob/main/pngwing.com.png" alt="mongoDB" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
 </p>
