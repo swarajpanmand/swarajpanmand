@@ -2,9 +2,9 @@
 <h1 align="left">Let's Connect!</h1>
 <p align="left">
   <a href="https://linkedin.com/in/swaraj-panmand-734629248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swaraj-panmand-734629248" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
-<!--   <a href="https://www.leetcode.com/swaraj31" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" alt="swaraj31" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.leetcode.com/swaraj31" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" alt="swaraj31" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/profile/swarajpanmand" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" alt="swarajpanmand" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.geeksforgeeks.org/user/swaraj31/" target="blank"><img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="swaraj31" height="40" width="40" /></a> -->
+  <a href="https://www.geeksforgeeks.org/user/swaraj31/" target="blank"><img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="swaraj31" height="40" width="40" /></a>
 </p>
 
 <br></br>
