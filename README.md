@@ -16,6 +16,6 @@
 
 Currently: Software Development Intern at Finoux Solutions, working on Flutter loan apps, Python automation systems, and AI-powered platforms..
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=swarajpanmand&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com?user=swarajpanmand&theme=github-dark)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=swarajpanmand&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
